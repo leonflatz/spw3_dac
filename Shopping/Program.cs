@@ -18,6 +18,7 @@ Console.WriteLine("Vodka");
 Console.WriteLine("Bier");
 Console.WriteLine("Snus");
 Console.WriteLine("Chicks");
+Console.WriteLine("Kaffee")
 
 
 
