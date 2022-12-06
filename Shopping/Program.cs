@@ -20,6 +20,7 @@ Console.WriteLine("Snus");
 Console.WriteLine("Chicks");
 Console.WriteLine("Kaffee");
 Console.WriteLine("Kakao");
+Console.WriteLine("Küche");
 
 
 
